@@ -1,0 +1,82 @@
+.esquerda{
+    width: 33%;
+    margin-right: 15px;
+
+}
+.principais1{
+
+}
+
+.categorias2{
+   
+
+}
+
+.meio{
+    width: 33%;
+    margin-right: 15px;
+
+}
+
+.categorias3{
+
+
+}  
+
+.categorias4{
+
+
+}
+
+.direita{
+    width: 33%;
+
+}
+
+.categorias5{
+
+
+}
+
+.steam{
+    height: 60px;
+    width: fit-content;
+}
+
+nav{
+    display: flex;
+    font-size: 20px;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+    column-gap: 12px;
+}
+
+header{
+    background-color: aliceblue;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+body{
+    background-color: black;
+    padding: 5px;
+}
+main{
+    display: flex;
+}
+
+.baixar{  
+    margin-top: 20px;
+    font-size: 25px;
+    color: aliceblue;
+}
+
+footer{
+    text-align: center;
+
+}

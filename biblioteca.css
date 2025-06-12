@@ -1,0 +1,75 @@
+.steam{
+    height: 60px;
+    width: fit-content;
+}
+
+nav{
+    display: flex;
+    font-size: 20px;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+    column-gap: 12px;
+}
+
+header{
+    background-color: aliceblue;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.foto{
+    width:300px;
+    height: 160px;
+}
+
+h1{
+    color: aliceblue;
+}
+
+h2{
+    color: aliceblue;
+}
+
+h3{
+    color: aliceblue;
+}
+
+p{
+    color: aliceblue;
+}
+
+.jogar{
+    color: aliceblue;
+    font-size: 15px;
+}
+
+body{
+    background-color: black;
+}
+
+.texto{
+    flex-grow: 1;
+    text-align: right;
+
+}
+
+.jogo{
+    padding: 10px;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.baixar{  
+    margin-top: 20px;
+    font-size: 25px;
+    color: aliceblue;
+}
+
+footer{
+    text-align: center;
+
+}
